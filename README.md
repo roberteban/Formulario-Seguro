@@ -40,7 +40,7 @@ Este es un proyecto de formulario interactivo y seguro, diseñado con HTML, CSS 
 
 ## Captura de pantalla
 
-![Formulario Seguro](img/fondo.jpg)
+![Formulario Seguro](img/Captura de pantalla.png)
 
 ## Próximas mejoras
 
